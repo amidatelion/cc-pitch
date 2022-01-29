@@ -8,7 +8,7 @@
 		"BonusDescriptions": {
 			"Bonuses": [
 				"JumpCapacity: 1.25",
-				"JumpHeat: 6",
+				"JumpHeat: 2",
 				"MinWeightJJ: 10",
 				"MaxWeightJJ: 55",
 				"MaxCountJJ: 1.5",
